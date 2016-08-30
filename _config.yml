@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SomeTitleForLater 
+title: Halp 
 subtitle: Stuff
 description: Personal Tech Blog
 author: Jason Tea
@@ -69,5 +69,6 @@ theme: hexo-theme-clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/teajason/teajason.github.io.git
+  repo: https://github.com/teajason/teajason.github.io.git 
+  ###repo: git@github.com:teajason/teajason.github.io.git
   branch: master 
