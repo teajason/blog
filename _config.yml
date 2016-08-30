@@ -69,5 +69,5 @@ theme: hexo-theme-clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:teajason/teajason.github.io.git
+  repo: https://github.com/teajason/teajason.github.io.git
   branch: master 
