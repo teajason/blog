@@ -1,11 +1,9 @@
 ---
-title: Working Title 
+title: Into Blogging, Web Design, and Digital Resumes 
 ---
 ### From learning to doing
 It's my first blog post, in fact, my first contribution to my personal website and I find myself grasping for first words.  I've spent an exorbitant amount of time learning different programming languages, concepts of Computer Science, and at the drawing board coming up with fun projects.  When it suddenly occurs to me as I start my job hunt that I need to put them on display.  So, what better way then to start my personal blog, website, and host my projects all in the same place?
 
-### Sharing secrets, with friends and strangers alike
-One of the challenges I found myself facing over and over again was knowing where to start on a project. During my time tutoring and being a teaching assistant I learned that more often than not a beginner would always lack the ability to ask the right question. More often than not it related specifically to vocabulary.  
 
 ### Selecting a web host
 
