@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Halp 
-subtitle: Stuff
-description: Personal Tech Blog
+title: Jason Tea 
+subtitle: Programmer, Traveler
+description: Personal website portal
 author: Jason Tea
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://jasontea.org
+url: http://jasontea.org/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-clean-blog 
+theme: hexo-theme-clean-blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

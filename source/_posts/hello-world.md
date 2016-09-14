@@ -5,8 +5,9 @@ title: Working Title
 It's my first blog post, in fact, my first contribution to my personal website and I find myself grasping for first words.  I've spent an exorbitant amount of time learning different programming languages, concepts of Computer Science, and at the drawing board coming up with fun projects.  When it suddenly occurs to me as I start my job hunt that I need to put them on display.  So, what better way then to start my personal blog, website, and host my projects all in the same place?
 
 ### Sharing secrets, with friends and strangers alike
-One of the challenges I found myself facing over and over again was knowing where to start on a project. During my time tutoring and being a teaching assistant I learned that more often than not a beginner would always lack the ability to ask the right question. More often than not it related specifically to vocabulary.  
+During my time tutoring and being a teaching assistant I learned that more often than not a beginner would lack the ability to ask the right question. More often than not it related specifically to vocabulary. This notion that perhaps teaching students vocabulary seemed condescending to me, the last time someone taught me vocabulary I must have been shy of nine or so, then of course there was studying for the SAT which was exclusively self-taught. So then why is it as an adult I find myself teaching beginners of Computer Science more vocabulary than anything else? I thought perhaps I was off my rocker, [thankfully](http://nyti.ms/1FJ9WSh) a friend of mine recently mentioned a BBC documentary discussing the relationship between language and our ability to see. Further research on this particular documentary and discussion are shelved for now. It does however add to my belief that there is reason to believe that in teaching we must consider that students need help learning vocabulary for it introduces them to things they did not previously know existed. 
 
+One of the challenges I find myself facing over and over again is knowing where to start on a project.  
 ### Selecting a web host
 
 ### Selecting a Static Site Generator
